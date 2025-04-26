@@ -29,7 +29,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
   * [mud-pi](https://github.com/Frimkron/mud-pi), the skeleton of a multiplayer dungeon game, waiting to be extended (in Python).
   * [snake](https://github.com/plutov/go-snake-telnet), the classic Snake game, single-player.
 
-### Games
+## Games
 
 * [Soul Knight](https://play.google.com/store/apps/details?id=com.ChillyRoom.DungeonShooter&showAllReviews=true) - Dungeon explorer and shooting game for up to 4 players in the same WiFi. (Android, iOS)
 * [Dual](https://play.google.com/store/apps/details?id=com.Seabaa.Dual) - 2 player abstract game that works over WiFi or Bluetooth. (Android, iOS)
