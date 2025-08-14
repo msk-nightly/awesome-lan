@@ -14,13 +14,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Utilities
 
-* [LocalSend](https://localsend.org/) - Open-source, cross-platform  app to share files between devices on your LAN
+* [LocalSend](https://localsend.org/) - Share files between any devices on your LAN. (Free, Open-source, Cross-platform) 
 * [LANDrop](https://landrop.app/) - Drop any files to any devices on your LAN.
 * [friendpm](https://github.com/noffle/friendpm) - Publish and install Node.js packages over LAN.
 * [netcat](https://www.binarytides.com/netcat-tutorial-for-beginners/) - Send arbitrary messages over the wire, great for [simple chats](https://askubuntu.com/questions/665492/how-to-build-a-simple-chat-using-netcat) and experimentation in general. (Linux, Mac)
 * [zget/zput](https://github.com/nils-werner/zget) - Filename-based P2P file-transfer, a Python script and module for easily (and unsafely) sending files over LAN (set `--address` if you're in multiple LANs). See also [figo](https://github.com/rnbdev/figo) for a clone written in Go.
 * [D-LAN](http://www.d-lan.net/features.html) - Parallel, distributed downloads with manageable queues, auto-discover, no server needed. (Linux, Windows, Mac)
 * [Firestr](https://mempko.com/firestr/firestr.html) - A platform for creating and sharing (not necessarily) simple P2P software with Lua, includes identity management, peering and example apps. (Linux, Windows, Mac)
+* Syncthing - Desktop app for P2P file sync over LAN or the internet. (Free, Open-source, Cross-platform)
 * [Dat](https://datproject.org/) - Data sync over the internet or LAN with autodiscovery. Distributed transfers, deduplication, versioning. (Linux, Mac)
 
 ## Inutilities
