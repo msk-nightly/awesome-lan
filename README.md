@@ -42,11 +42,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Services
 
-* [ZeroTier](https://www.zerotier.com/) and [Tailscale](https://tailscale.com/) - Turn any set of computers in any environment into a LAN. Not a VPN, just magic. (Linux, Windows, Mac, Android, iOS)
-* [TightVNC](https://www.tightvnc.com/) (Windows), [Remmina](https://remmina.org/) (Linux) and [TigerVNC](https://tigervnc.org/) (Windows, Linux, Mac) - Browse other desktops.
+### Mesh VPN
+Turn any set of computers in any environment into a LAN. Can also be done using softwares dedicated to common VPN Protocols (i.e., Wireguard, IPSec, OpenVPN, etc.) (Cross-platform)
+* [ZeroTier](https://www.zerotier.com/)
+* [Tailscale](https://tailscale.com/)
+### Remote Desktop Access
+* [TightVNC](https://www.tightvnc.com/) (Windows)
+* [Remmina](https://remmina.org/) (Linux)
+* [TigerVNC](https://tigervnc.org/) (Windows, Linux, Mac)
+* [RustDesk](https://rustdesk.com/) (Free, Open-source, Cross-platform)
 
 ## Contribute
-Please contribute! Open an issue or a PR and we'll discuss it or merge it. If you're opening a PR, please ensure all formatting is ok (if you're in a hurry just open an issue).
+Please contribute! Open an issue or a PR and we'll discuss it or merge it. If you're opening a PR, please ensure all formatting is OK (if you're in a hurry, just open an issue).
 
 ## License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
