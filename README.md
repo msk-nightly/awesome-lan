@@ -43,9 +43,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Services
 
 ### Mesh VPN
-Turn any set of computers in any environment into a LAN. Can also be done using softwares dedicated to common VPN Protocols (i.e., Wireguard, IPSec, OpenVPN, etc.) (Cross-platform)
+Turn any set of computers in any environment into a LAN. (Cross-platform)
 * [ZeroTier](https://www.zerotier.com/)
 * [Tailscale](https://tailscale.com/)
+
+Note: This can also be done using softwares dedicated to common VPN Protocols (i.e., Wireguard, IPSec, OpenVPN, etc.)
+
 ### Remote Desktop Access
 * [TightVNC](https://www.tightvnc.com/) (Windows)
 * [Remmina](https://remmina.org/) (Linux)
