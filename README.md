@@ -14,13 +14,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Utilities
 
-* [LocalSend](https://localsend.org/) - Open-source, cross-platform  app to share files between devices on your LAN
+* [LocalSend](https://localsend.org/) - Share files between any devices on your LAN. (Free, Open-source, Cross-platform) 
 * [LANDrop](https://landrop.app/) - Drop any files to any devices on your LAN.
 * [friendpm](https://github.com/noffle/friendpm) - Publish and install Node.js packages over LAN.
 * [netcat](https://www.binarytides.com/netcat-tutorial-for-beginners/) - Send arbitrary messages over the wire, great for [simple chats](https://askubuntu.com/questions/665492/how-to-build-a-simple-chat-using-netcat) and experimentation in general. (Linux, Mac)
 * [zget/zput](https://github.com/nils-werner/zget) - Filename-based P2P file-transfer, a Python script and module for easily (and unsafely) sending files over LAN (set `--address` if you're in multiple LANs). See also [figo](https://github.com/rnbdev/figo) for a clone written in Go.
 * [D-LAN](http://www.d-lan.net/features.html) - Parallel, distributed downloads with manageable queues, auto-discover, no server needed. (Linux, Windows, Mac)
 * [Firestr](https://mempko.com/firestr/firestr.html) - A platform for creating and sharing (not necessarily) simple P2P software with Lua, includes identity management, peering and example apps. (Linux, Windows, Mac)
+* Syncthing - Desktop app for P2P file sync over LAN or the internet. (Free, Open-source, Cross-platform)
 * [Dat](https://datproject.org/) - Data sync over the internet or LAN with autodiscovery. Distributed transfers, deduplication, versioning. (Linux, Mac)
 
 ## Inutilities
@@ -29,7 +30,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
   * [mud-pi](https://github.com/Frimkron/mud-pi), the skeleton of a multiplayer dungeon game, waiting to be extended (in Python).
   * [snake](https://github.com/plutov/go-snake-telnet), the classic Snake game, single-player.
 
-### Games
+## Games
 
 * [Soul Knight](https://play.google.com/store/apps/details?id=com.ChillyRoom.DungeonShooter&showAllReviews=true) - Dungeon explorer and shooting game for up to 4 players in the same WiFi. (Android, iOS)
 * [Dual](https://play.google.com/store/apps/details?id=com.Seabaa.Dual) - 2 player abstract game that works over WiFi or Bluetooth. (Android, iOS)
@@ -41,11 +42,21 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Services
 
-* [ZeroTier](https://www.zerotier.com/) and [Tailscale](https://tailscale.com/) - Turn any set of computers in any environment into a LAN. Not a VPN, just magic. (Linux, Windows, Mac, Android, iOS)
-* [TightVNC](https://www.tightvnc.com/) (Windows), [Remmina](https://remmina.org/) (Linux) and [TigerVNC](https://tigervnc.org/) (Windows, Linux, Mac) - Browse other desktops.
+### Mesh VPN
+Turn any set of computers in any environment into a LAN. (Cross-platform)
+* [ZeroTier](https://www.zerotier.com/)
+* [Tailscale](https://tailscale.com/)
+
+Note: This can also be done using softwares dedicated to common VPN Protocols (i.e., Wireguard, IPSec, OpenVPN, etc.)
+
+### Remote Desktop Access
+* [TightVNC](https://www.tightvnc.com/) (Windows)
+* [Remmina](https://remmina.org/) (Linux)
+* [TigerVNC](https://tigervnc.org/) (Windows, Linux, Mac)
+* [RustDesk](https://rustdesk.com/) (Free, Open-source, Cross-platform)
 
 ## Contribute
-Please contribute! Open an issue or a PR and we'll discuss it or merge it. If you're opening a PR, please ensure all formatting is ok (if you're in a hurry just open an issue).
+Please contribute! Open an issue or a PR and we'll discuss it or merge it. If you're opening a PR, please ensure all formatting is OK (if you're in a hurry, just open an issue).
 
 ## License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
